@@ -13,7 +13,7 @@ public class test02 {
                 number++; //记录个数
             }
         }
-        System.out.println("水仙花的个数是："+number);
+        System.out.println("水仙花的个数是："+number); 
 
     }
 }
